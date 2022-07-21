@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AparnaRaut
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning msc in statistics at mumbai university
+- 🌱 I have done msc in statistics at mumbai university
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
